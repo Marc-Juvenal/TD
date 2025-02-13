@@ -1,0 +1,11 @@
+/* Thème clair (par défaut) */
+body.light {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  /* Thème sombre */
+  body.dark {
+    background-color: #121212;
+    color: #ffffff;
+  }
